@@ -521,8 +521,7 @@ void Search(titles* head, years* year, ratings* rating, genres* genre,
 			if (counter > 2) {
 				cout << "\n********** MOVIES WITH YEAR \"" << yearOrRating << "\" FOUND **********\n";
 
-			}
-			else {
+			} else {
 				cout << "\n********** MOVIE WITH YEAR \"" << yearOrRating << "\" FOUND **********\n";
 
 			}
